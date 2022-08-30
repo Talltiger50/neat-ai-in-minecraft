@@ -41,4 +41,4 @@ def code(outputs,currntplayer,player,blocknames,runner,display,fitnesses,ge,debu
 
 
 #port of lan world
-main.MmAI(64893,code,display=True)
+mmAI.MmAI(64893,code,display=True)
